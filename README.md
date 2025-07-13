@@ -1,6 +1,6 @@
 # RUPESH_LOGS
 
-# ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rynox1612&theme=default);
+# ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rynox1612&theme=default)
 
 Tracking my daily progress in coding and open source 💻🔥
 
