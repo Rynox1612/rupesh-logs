@@ -22,3 +22,15 @@
 
 ### ⌨️ Tech Touched Today:
 `Node.js`,`Express.js`,`Git & GitHub for version control and project hosting`,`MySQL`.
+
+---
+
+## 📅 14 July
+
+### ✅ Key Learnings:
+- 🔐 Integrated `.env` in my API project to **hide sensitive credentials** like database password.
+- 📂 Learned and used `.gitignore` to **prevent unnecessary files** like `node_modules` and `.env` from being pushed to GitHub.
+- 🛠️ Ran the `mongod` command **for the first time** to start MongoDB locally.
+
+### ⌨️ Tech Touched Today:
+`Node.js`,`Express.js`,`cmd`,`MySQL`.
