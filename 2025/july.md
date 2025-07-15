@@ -34,3 +34,16 @@
 
 ### ⌨️ Tech Touched Today:
 `Node.js`,`Express.js`,`cmd`,`MySQL`.
+
+---
+
+## 📅 15 July
+
+### ✅ Key Learnings:
+- Successfully performed full **CRUD operations** using MongoDB and Mongoose.
+- Implemented and tested various **algebraic operators** (`$gt`, `$lt`, `$gte`, `$lte`) and **logical operators** (`$and`, `$or`, `$in`) in query filters.
+- Implemented the **Edit (Update)** route in my SQL-based RESTful API completely **on my own**.
+- Handled password verification, database update, and redirection using `PATCH` method.
+
+### ⌨️ Tech Touched Today:
+`MongoDB`, `Mongoose`, `Node.js`, `Express.js`, `MySQL`, `EJS`, `Git`, `JavaScript`.
