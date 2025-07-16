@@ -47,3 +47,19 @@
 
 ### ⌨️ Tech Touched Today:
 `MongoDB`, `Mongoose`, `Node.js`, `Express.js`, `MySQL`, `EJS`, `Git`, `JavaScript`.
+
+---
+
+## 🗓️ 16 July 
+
+### ✅ Key Learnings:
+- Configured two GitHub accounts on a single machine using SSH keys.  
+- Fixed issue of commits going from the wrong GitHub account.  
+- Explored MongoDB background running service.  
+- Created a new repository named `debugger-journal`.  
+- Registered and solved the first issue in `debugger-journal`.
+
+### ⌨️ Tech Touched Today:
+`GitHub`, `SSH`, `MongoDB`, `Markdown`
+
+---
