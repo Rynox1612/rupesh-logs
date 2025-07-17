@@ -63,3 +63,13 @@
 `GitHub`, `SSH`, `MongoDB`, `Markdown`
 
 ---
+
+### 📅 17 July
+
+### ✅ Key Learnings:
+- Practiced **Create** and **Read** operations in **Mongoose**.
+- Explored more about **Shell Scripting**, especially automation using custom functions.
+- Began working on a new project named **`setup-vault`**.
+
+### ⌨️ Tech Touched Today:
+`MongoDB`, `Mongoose`, `Node.js`, `Express.js`, `Git`, `JavaScript`, `shell scrtripting`.
