@@ -73,3 +73,14 @@
 
 ### ⌨️ Tech Touched Today:
 `MongoDB`, `Mongoose`, `Node.js`, `Express.js`, `Git`, `JavaScript`, `shell scrtripting`.
+
+### 📅 18 July
+
+### ✅ Key Learnings:
+
+- Performed advanced operations in **Git**:Successfully managed to change commit author. 
+- Explored **Shell Scripting**:Created a custom function to **dive into folders quickly** using short commands.
+- Worked on **RESTful API**:Added DELETE and ADD routes to Express.js API.
+    
+### ⌨️ Tech Touched Today:
+`Git`, `Shell Scripting`, `Express.js`, `Node.js`, `dotenv, SQL`, `JavaScript`.
