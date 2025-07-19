@@ -84,3 +84,15 @@
     
 ### ⌨️ Tech Touched Today:
 `Git`, `Shell Scripting`, `Express.js`, `Node.js`, `dotenv, SQL`, `JavaScript`.
+
+### 🗓️ 19 July 
+
+### ✅ Key Learnings:
+
+- ✅ Finished practicing **CRUD operations** in Mongoose.
+- 📘 Learned about **Schema validations**.
+- 🛠️ Added `info.md` to test repo in **setup-vault** for Mongoose.
+- 🐞 Updated **debug-journal.md** with **SSH key setup** explanation.
+
+### ⌨️ Tech Touched Today:
+`Git`, `mongoose`, `mongodb`, `CLI`, `dotenv`, `JavaScript`.
