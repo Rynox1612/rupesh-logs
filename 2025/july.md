@@ -74,6 +74,8 @@
 ### ⌨️ Tech Touched Today:
 `MongoDB`, `Mongoose`, `Node.js`, `Express.js`, `Git`, `JavaScript`, `shell scrtripting`.
 
+---
+
 ### 📅 18 July
 
 ### ✅ Key Learnings:
@@ -84,6 +86,8 @@
     
 ### ⌨️ Tech Touched Today:
 `Git`, `Shell Scripting`, `Express.js`, `Node.js`, `dotenv, SQL`, `JavaScript`.
+
+---
 
 ### 🗓️ 19 July 
 
@@ -96,3 +100,18 @@
 
 ### ⌨️ Tech Touched Today:
 `Git`, `mongoose`, `mongodb`, `CLI`, `dotenv`, `JavaScript`.
+
+---
+
+## 🗓️ 20 July
+
+### ✅ Key Learnings:
+
+- 🔄 **Minor Changes & Rest Day**
+- 🔐 Shifted `SSH key setup` notes from `debug-journal` ➜ `setup-vault`
+- 🔗 Updated **LinkedIn profile**
+
+### ⌨️ Tech Touched Today:
+`none` 😁😁
+
+
