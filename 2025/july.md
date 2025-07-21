@@ -114,4 +114,18 @@
 ### ⌨️ Tech Touched Today:
 `none` 😁😁
 
+---
+
+🗓️ 21 July
+
+### ✅ Key Learnings:
+
+- 🚀 **Completed a fully functional RESTful API project**  
+- 🗂️ Project uses **MongoDB** as the database
+- 🔗 Proper routing, controller logic, and data flow tested successfully
+- 🧪 Integrated init.js to inject test data on demand
+    
+### ⌨️ Tech Touched Today:
+`Node.js`, `Express.js`, `MongoDB`, `Mongoose`, `RESTful API`, `method-override`, `JavaScript`
+
 
