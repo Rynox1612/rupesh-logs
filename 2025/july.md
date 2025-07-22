@@ -116,7 +116,7 @@
 
 ---
 
-🗓️ 21 July
+## 🗓️ 21 July
 
 ### ✅ Key Learnings:
 
@@ -128,4 +128,13 @@
 ### ⌨️ Tech Touched Today:
 `Node.js`, `Express.js`, `MongoDB`, `Mongoose`, `RESTful API`, `method-override`, `JavaScript`
 
+## 🗓️ 22 July
 
+### ✅ Key Learnings:
+- ⚙️ **Initialized major project structure** with modular folders for models, routes, and controllers
+- 🔗 Set up basic project flow and configurations for future development
+- 🧵 Kickstarted the **#100DaysOfCode challenge** on LinkedIn to document daily progress
+- 🐚 Explored **shell scripting basics**, including variable handling, user input, and syntax fundamentals
+    
+### ⌨️ Tech Touched Today:
+`Node.js`, `Express.js`, `MongoDB`, `Mongoose`, `RESTful API`, `Shell Scripting`, `JavaScript`, `Git`, `LinkedIn`
