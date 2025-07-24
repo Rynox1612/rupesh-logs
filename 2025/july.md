@@ -148,3 +148,8 @@
 
 ### ⌨️ Tech Touched Today:
 `Node.js`, `Express.js`, `MongoDB`, `Mongoose`, `EJS`, `ejs-mate`, `Git`, `VS Code`
+
+## 🗓️ 24 July
+
+### ✅ Key Learnings:
+- Due to high fever , nothing done today , but i wont lost streak.
