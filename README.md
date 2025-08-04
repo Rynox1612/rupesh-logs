@@ -16,3 +16,4 @@ To stay accountable, track progress, and maintain a history of my growth for GSo
 
 ## Monthly logs
 - [july](./2025/july.md)
+- [August](./2025/august.md)

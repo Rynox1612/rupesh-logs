@@ -128,6 +128,8 @@
 ### ⌨️ Tech Touched Today:
 `Node.js`, `Express.js`, `MongoDB`, `Mongoose`, `RESTful API`, `method-override`, `JavaScript`
 
+---
+
 ## 🗓️ 22 July
 
 ### ✅ Key Learnings:
@@ -139,6 +141,8 @@
 ### ⌨️ Tech Touched Today:
 `Node.js`, `Express.js`, `MongoDB`, `Mongoose`, `RESTful API`, `Shell Scripting`, `JavaScript`, `Git`, `LinkedIn`
 
+---
+
 ## 🗓️ 23 July
 
 ### ✅ Key Learnings:
@@ -149,12 +153,20 @@
 ### ⌨️ Tech Touched Today:
 `Node.js`, `Express.js`, `MongoDB`, `Mongoose`, `EJS`, `ejs-mate`, `Git`, `VS Code`
 
+---
+
 ## 🗓️ 24 July
 
 ### ✅ Key Learnings:
 - Due to high fever , nothing done today , but i wont lost streak.
 
+---
+
 ## 🗓️ 25 July
 
 ### ✅ Key Learnings:
 - Second Day of high fever , nothing done today , but i wont lost streak.
+
+---
+
+**Tale of july ended.**
