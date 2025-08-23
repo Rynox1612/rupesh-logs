@@ -34,3 +34,15 @@ Rupesh Sahu
 ### work done 
 - Navbar in wanderer's palace is updated 
 
+---
+
+## 📅 23rd August  
+
+### work done  
+  - Sessions: 2 (10 min + 10 min)  
+  - Top Speed: **43.8 WPM**  
+  - Accuracy: **100%**  
+  - Score: **7,547**  
+  - Added **custom footer** using self-written CSS for better UI  
+
+> this might look radom, but its my touch typing speed on keybr.
