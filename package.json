@@ -1,0 +1,21 @@
+{
+  "name": "rupesh-logs",
+  "version": "1.0.0",
+  "description": "# <img src=\"https://github-readme-activity-graph.vercel.app/graph?username=Rynox1612&theme=github-compact\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "dotenv": "^17.2.2",
+    "inquirer": "^8.2.4",
+    "openai": "^5.20.2"
+  },
+  "bin": {
+    "rl": "./logbook.js"
+  }
+}
