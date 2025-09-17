@@ -14,3 +14,19 @@ its 10 today
 ### ⌨️ Tech Touched Today:
 
 `Mongoose`, `express.js`, `Node.js`, `GitHub`, `shell script`
+
+---
+
+## 📅 17 september
+
+### ✅ Key Learnings:
+
+- Learned about Mongoose middleware and used it in Wanderer Palace.
+- Explored Express Routers to make the code clean and modular.
+- Automated my logbook a bit using shell scripting.
+
+### ⌨️ Tech Touched Today:
+
+`Mongoose`, `Express.js`, `Node.js`, `GitHub`, `Shell Script`...
+
+---
