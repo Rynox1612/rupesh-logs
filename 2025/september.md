@@ -30,3 +30,17 @@ its 10 today
 `Mongoose`, `Express.js`, `Node.js`, `GitHub`, `Shell Script`...
 
 ---
+
+## 📅 18 september
+
+### ✅ Key Learnings:
+
+- Implemented and used the router object ib the project to make the file modular.
+- Learnt about the HTTP / web cookies
+- Also learned about the cookie-parser npm package
+
+### ⌨️ Tech Touched Today:
+
+`Mongoose`, `Express.js`, `Node.js`, `npm`, `browser console`...
+
+---
