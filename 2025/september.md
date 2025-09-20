@@ -44,3 +44,17 @@ its 10 today
 `Mongoose`, `Express.js`, `Node.js`, `npm`, `browser console`...
 
 ---
+
+## 📅 20 september
+
+### ✅ Key Learnings:
+
+- Learned about express sessions
+- Tested how web cookies work
+- practiced my hands on git branching
+
+### ⌨️ Tech Touched Today:
+
+`Mongoose`, `Express.js`, `Node.js`, `GitHub`, `Git bash`, `express-session`...
+
+---
