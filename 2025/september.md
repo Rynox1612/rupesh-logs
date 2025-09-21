@@ -58,3 +58,17 @@ its 10 today
 `Mongoose`, `Express.js`, `Node.js`, `GitHub`, `Git bash`, `express-session`...
 
 ---
+
+## 📅 21 september
+
+### ✅ Key Learnings:
+
+- Implemented connect-flash middleware for displaying flash messages with express-session support
+- Explored error handling patterns using flash messages
+- Enhanced user experience by adding temporary notifications
+
+### ⌨️ Tech Touched Today:
+
+`Express.js`, `connect-flash`, `express-session`, `Node.js`, `npm`...
+
+---
