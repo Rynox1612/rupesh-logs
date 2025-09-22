@@ -72,3 +72,20 @@ its 10 today
 `Express.js`, `connect-flash`, `express-session`, `Node.js`, `npm`...
 
 ---
+
+## 📅 22 september
+
+### ✅ Key Learnings:
+
+### ✅ Key Learnings:
+
+- Explored password security concepts including hashing and salting
+- Learned about password hashing using bcrypt for secure storage
+- Implemented user authentication using Passport.js package
+- Added session-based authentication flow with local strategy
+
+### ⌨️ Tech Touched Today:
+
+`bcrypt`, `Passport.js`, `Express.js`, `Node.js`, `express-session`, `MongoDB`...
+
+---
