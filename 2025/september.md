@@ -77,8 +77,6 @@ its 10 today
 
 ### ✅ Key Learnings:
 
-### ✅ Key Learnings:
-
 - Explored password security concepts including hashing and salting
 - Learned about password hashing using bcrypt for secure storage
 - Implemented user authentication using Passport.js package
@@ -89,3 +87,33 @@ its 10 today
 `bcrypt`, `Passport.js`, `Express.js`, `Node.js`, `express-session`, `MongoDB`...
 
 ---
+
+## 📅 25 september
+
+### ✅ Key Learnings:
+
+- made signup page for my major project
+- applied validation for user logged in
+- practiced typing for 10 minutes
+
+### ⌨️ Tech Touched Today:
+
+    `not specified`
+
+---
+
+    ## 📅 25 september
+
+### ✅ Key Learnings:
+
+- 
+-
+- 
+
+### ⌨️ Tech Touched Today:
+
+`Mongoose`, `Express.js`, `Node.js`, `GitHub`, `Shell Script`...
+
+---
+
+
